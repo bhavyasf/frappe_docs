@@ -57,6 +57,12 @@ Basic Usage
 
 		bench new-site site1.local
 
+* Use site
+
+    Before starting the bench, you might need to set the current site first.
+	 
+	    bench use site1.local
+
 * Start bench
 
 	To start using the bench, use the `bench start` command
